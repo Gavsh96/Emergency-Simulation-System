@@ -1,0 +1,222 @@
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader read
+INFO: The file input2.txt is read
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader checkDuplicates
+INFO: Duplicate Emergencies have been detected
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader read
+INFO: New fire with start time 46 and location Midtown is added
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader read
+INFO: New fire with start time 1 and location Hill Valley is added
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader read
+INFO: New fire with start time 1 and location Hill Valley is added
+Jun 02, 2022 12:12:19 AM edu.curtin.emergencysim.read.FileReader read
+INFO: New fire with start time 1 and location Hill Valley is added
+Jun 02, 2022 12:12:20 AM edu.curtin.emergencysim.display.EmergencyGenerator simulatorFunctions
+INFO: fire start Hill Valley is being simulated
+Jun 02, 2022 12:12:20 AM edu.curtin.emergencysim.display.EmergencyGenerator simulatorFunctions
+INFO: fire start Hill Valley is being simulated
+Jun 02, 2022 12:12:20 AM edu.curtin.emergencysim.display.EmergencyGenerator simulatorFunctions
+INFO: fire start Hill Valley is being simulated
+Jun 02, 2022 12:12:21 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:21 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 0 Hill Valley is simulated
+Jun 02, 2022 12:12:22 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 1 Hill Valley is simulated
+Jun 02, 2022 12:12:22 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 0 Hill Valley is simulated
+Jun 02, 2022 12:12:23 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:23 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 2 Hill Valley is simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire high Hill Valley is being simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 1 Hill Valley is simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire high Hill Valley is being simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 3 Hill Valley is simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 0 Hill Valley is simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire high Hill Valley is being simulated
+Jun 02, 2022 12:12:25 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 1 Hill Valley is simulated
+Jun 02, 2022 12:12:26 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 2 Hill Valley is simulated
+Jun 02, 2022 12:12:26 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 2 Hill Valley is simulated
+Jun 02, 2022 12:12:26 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 4 Hill Valley is simulated
+Jun 02, 2022 12:12:26 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 4 Hill Valley is simulated
+Jun 02, 2022 12:12:26 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 2 Hill Valley is simulated
+Jun 02, 2022 12:12:27 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 3 Hill Valley is simulated
+Jun 02, 2022 12:12:27 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 3 Hill Valley is simulated
+Jun 02, 2022 12:12:27 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 5 Hill Valley is simulated
+Jun 02, 2022 12:12:27 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 5 Hill Valley is simulated
+Jun 02, 2022 12:12:27 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 3 Hill Valley is simulated
+Jun 02, 2022 12:12:28 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 4 Hill Valley is simulated
+Jun 02, 2022 12:12:28 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 4 Hill Valley is simulated
+Jun 02, 2022 12:12:28 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 6 Hill Valley is simulated
+Jun 02, 2022 12:12:28 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 4 Hill Valley is simulated
+Jun 02, 2022 12:12:28 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 4 Hill Valley is simulated
+Jun 02, 2022 12:12:29 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 5 Hill Valley is simulated
+Jun 02, 2022 12:12:29 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 5 Hill Valley is simulated
+Jun 02, 2022 12:12:29 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 7 Hill Valley is simulated
+Jun 02, 2022 12:12:29 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 7 Hill Valley is simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 5 Hill Valley is simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 5 Hill Valley is simulated
+Jun 02, 2022 12:12:30 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 5 Hill Valley is simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 6 Hill Valley is simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 8 Hill Valley is simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 8 Hill Valley is simulated
+Jun 02, 2022 12:12:31 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 6 Hill Valley is simulated
+Jun 02, 2022 12:12:32 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Hill Valley is being simulated
+Jun 02, 2022 12:12:32 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 7 Hill Valley is simulated
+Jun 02, 2022 12:12:32 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 7 Hill Valley is simulated
+Jun 02, 2022 12:12:33 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 7 Hill Valley is simulated
+Jun 02, 2022 12:12:33 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 9 Hill Valley is simulated
+Jun 02, 2022 12:12:33 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 7 Hill Valley is simulated
+Jun 02, 2022 12:12:34 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 8 Hill Valley is simulated
+Jun 02, 2022 12:12:34 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 10 Hill Valley is simulated
+Jun 02, 2022 12:12:34 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 10 Hill Valley is simulated
+Jun 02, 2022 12:12:34 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 8 Hill Valley is simulated
+Jun 02, 2022 12:12:34 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 8 Hill Valley is simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 9 Hill Valley is simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 9 Hill Valley is simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 11 Hill Valley is simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 11 Hill Valley is simulated
+Jun 02, 2022 12:12:35 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 9 Hill Valley is simulated
+Jun 02, 2022 12:12:36 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 10 Hill Valley is simulated
+Jun 02, 2022 12:12:36 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 10 Hill Valley is simulated
+Jun 02, 2022 12:12:36 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 12 Hill Valley is simulated
+Jun 02, 2022 12:12:36 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 10 Hill Valley is simulated
+Jun 02, 2022 12:12:36 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 10 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 11 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 11 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 13 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 13 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 11 Hill Valley is simulated
+Jun 02, 2022 12:12:37 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 11 Hill Valley is simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire low Hill Valley is being simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 14 Hill Valley is simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire low Hill Valley is being simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 12 Hill Valley is simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 12 Hill Valley is simulated
+Jun 02, 2022 12:12:38 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire low Hill Valley is being simulated
+Jun 02, 2022 12:12:40 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire casualty 12 Hill Valley is simulated
+Jun 02, 2022 12:12:41 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire end Hill Valley is being simulated
+Jun 02, 2022 12:12:41 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 15 Hill Valley is simulated
+Jun 02, 2022 12:12:41 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire end Hill Valley is being simulated
+Jun 02, 2022 12:12:41 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 13 Hill Valley is simulated
+Jun 02, 2022 12:12:41 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire end Hill Valley is being simulated
+Jun 02, 2022 12:12:44 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Hill Valley is being simulated
+Jun 02, 2022 12:12:44 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:44 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: chemical + Westtown is being simulated
+Jun 02, 2022 12:12:44 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: flood + Midtown is being simulated
+Jun 02, 2022 12:12:45 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire - Midtown is being simulated
+Jun 02, 2022 12:12:45 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: chemical - Westtown is being simulated
+Jun 02, 2022 12:12:46 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: flood - Midtown is being simulated
+Jun 02, 2022 12:12:47 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: flood + Midtown is being simulated
+Jun 02, 2022 12:12:47 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: flood + Hill Valley is being simulated
+Jun 02, 2022 12:12:51 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: chemical + Westtown is being simulated
+Jun 02, 2022 12:13:04 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: fire + Midtown is being simulated
+Jun 02, 2022 12:13:05 AM edu.curtin.emergencysim.display.EmergencyGenerator simulatorFunctions
+INFO: fire start Midtown is being simulated
+Jun 02, 2022 12:13:07 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 1 Midtown is simulated
+Jun 02, 2022 12:13:08 AM edu.curtin.emergencysim.display.EmergencyGenerator fireDamageandCasualties
+INFO: fire damage 2 Midtown is simulated
+Jun 02, 2022 12:13:08 AM edu.curtin.emergencysim.display.EmergencyGenerator fireResponce
+INFO: fire end Midtown is being simulated
+Jun 02, 2022 12:13:14 AM edu.curtin.emergencysim.display.EmergencyGenerator displayEmergency
+INFO: end is being simulated
